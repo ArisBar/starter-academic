@@ -78,10 +78,12 @@ email: "aristidebaratin@hotmail.com"
 highlight_name: false
 ---
 
-I'm a mathematical physicist working on artificial intelligence.  Currently a PhD candidate at Mila advised by Simon Lacoste-Julien, 
+I'm a mathematical physicist working on artificial intelligence.  Currently a PhD candidate at Mila - Quebec AI Institute advised by Simon Lacoste-Julien, 
 I work on foundational aspects of deep learning algorithms, with a focus on understanding their robustness and generalization performance.  
 
-Before joining Mila, I was a Postcotoral Fellow hosted by the University of Waterloo and a junior scientist at the Max Planck Institute in Potsdam, Germany.  My research work was mainly about quantum gravity. I received a PhD in physics from ENS Lyon, under the supervision of Laurent Freidel. 
+Before joining Mila, I was a Humboldt Fellow hosted by the University of Waterloo and a junior scientist at the Max Planck Institute in Potsdam, Germany.  My research work was mainly about quantum gravity. I received a PhD in physics from ENS Lyon, under the supervision of Laurent Freidel. 
+
+I also love teaching. I've taught numerous undergraduate classes in mathematics as a course lecturer at the University of Waterloo and McGill, as well as physics and computer sciences classes as a teacher's assistant at ENS Lyon and Udem.
 
 {{< icon name="download" pack="fas" >}} See my {{< staticref "uploads/demo_resume.pdf" "newtab" >}} curriculum vitae {{< /staticref >}} for more details. 
 
