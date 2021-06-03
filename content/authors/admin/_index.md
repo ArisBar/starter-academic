@@ -83,7 +83,7 @@ I work on foundational aspects of deep learning algorithms, with a focus on unde
 
 Before joining Mila, I worked as a researcher in theoretical physics at several institutions including the Perimeter Institute in Waterloo, Ontario, and the Max Planck Institute in Potsdam, Germany.  My research focus ...   I received a PhD in physics from Ecole Normale Sup\'{e}rieure de Lyon, under the supervision of Laurent Freidel. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} See my {{< staticref "uploads/demo_resume.pdf" "newtab" >}} curriculum vitae {{< /staticref >}}.
 
 
 
