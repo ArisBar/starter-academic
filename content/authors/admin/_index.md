@@ -10,7 +10,7 @@ role: PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Mila, Universit\'{e} de Montr\'{e}al
+- name: Mila, Université de Montréal
   url: https://mila.quebec/en/
 
 # Short bio (displayed in user profile at end of posts)
@@ -28,7 +28,7 @@ interests:
 education:
   courses:
   - course: PhD in Machine Learning
-    institution: Mila, Universit\'{e} de Montr\'{e}al
+    institution: Mila, Université de Montréal
     year: 2017-
   - course: PhD in Theoretical Physics
     institution: ENS Lyon and Perimeter Institute, Waterloo
