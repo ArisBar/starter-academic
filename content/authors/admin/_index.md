@@ -31,7 +31,7 @@ education:
     institution: Mila, Université de Montréal
     year: 2017-
   - course: PhD in Theoretical Physics
-    institution: ENS Lyon and Perimeter Institute, Waterloo
+    institution: ENS Lyon and Perimeter Institute
     year: 2009
   - course: Msc in Theoretical Physics  
     institution: ENS Paris 
