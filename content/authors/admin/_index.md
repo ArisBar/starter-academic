@@ -83,7 +83,7 @@ I work on foundational aspects of deep learning algorithms, with a focus on unde
 
 Before joining Mila, I was a Humboldt Fellow hosted by the University of Waterloo, and prior to that, a junior scientist at the Max Planck Institute in Potsdam, Germany.  My research was mainly about quantum gravity. I received a PhD in physics from ENS Lyon, under the supervision of Laurent Freidel. 
 
-I love teaching. I've taught numerous classes in mathematics, physics and computer science as a course lecturer at the University of Waterloo and McGill, and as a teacher’s assistant at ENS  Lyon and Udem.
+I also love teaching. I've taught numerous classes in mathematics, physics and computer science as a course lecturer at UW and McGill, and as a teacher’s assistant at ENS  Lyon and UdeM.
 
 {{< icon name="download" pack="fas" >}} See my {{< staticref "uploads/demo_resume.pdf" "newtab" >}} curriculum vitae {{< /staticref >}} for more details. 
 
