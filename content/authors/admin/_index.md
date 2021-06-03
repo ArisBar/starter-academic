@@ -86,7 +86,7 @@ Before joining Mila, I was a Humboldt Fellow hosted by the University of Waterlo
 
 I also love teaching. I've taught numerous classes in mathematics, physics and computer science as a course lecturer at UW and McGill, and as a teacher’s assistant at ENS  Lyon and UdeM.
 
-{{< icon name="download" pack="fas" >}} See my {{< staticref "uploads/demo_resume.pdf" "newtab" >}} curriculum vitae {{< /staticref >}} for more details. 
+{{< icon name="download" pack="fas" >}} See my {{< staticref "uploads/resume.pdf" "newtab" >}} curriculum vitae {{< /staticref >}} for more details. 
 
 
 
