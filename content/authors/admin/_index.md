@@ -30,12 +30,12 @@ education:
     institution: Mila, Universit\'e de Momntr\'eal
     year: 2017-
   - course: PhD in Theoretical Physics
-    institution: ENS Lyon \& Perimeter Institute, Waterloo
+    institution: ENS Lyon and Perimeter Institute, Waterloo
     year: 2009
-  - course: Msc in Theoretical Physics 
-    institution: ENS Paris 
-    year: 2004
-  - course: Stipendary student in Mathematics
+  - course: Master's degrees in Mathematics and Theoretical Physics 
+    institution: University of Paris-Saclay  and ENS Paris 
+    year: 2002-2004
+  - course: Stipendary student 
     institution: ENS Paris-Saclay
     year: 2002-2004
 
