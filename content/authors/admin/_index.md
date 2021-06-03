@@ -39,7 +39,7 @@ education:
   #- course: Msc in Mathematics 
   #  institution: University Paris-Saclay 
   #  year: 2002
-  - course: Stipendary student in Mathematics
+  - course: Stipendary student
     institution: ENS Paris-Saclay
     year: 2002-2004
 
