@@ -22,7 +22,7 @@ interests:
   - Theories of deep learning
   - Statistical learning theory
   - Representation learning 
-  - Out of distribution generalization
+  #- Out of distribution generalization
   - Applications in computer vision, NLP
 
 # Education to show in About widget
