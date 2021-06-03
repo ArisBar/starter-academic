@@ -75,10 +75,10 @@ email: "aristidebaratin@hotmail.com"
 highlight_name: false
 ---
 
-I'm a theoretical physicist working on artificial intelligence.  Currently a PhD candidate at Mila advised by Simon Lacoste-Julien, 
+I'm a mathematical physicist working on artificial intelligence.  Currently a PhD candidate at Mila advised by Simon Lacoste-Julien, 
 I work on foundational aspects of deep learning algorithms, with a focus on understanding their robustness and generalization performance.  
 
-Before joining Mila, I worked as a researcher at several institutions including Perimeter Institute for Theoretical Physics in Waterloo, ON, and the Max Planck Institute for Gravitational physics in Potsdam, Germany. My research spanned   I received my PhD in physics from ENS Lyon.
+Before joining Mila, I worked as a researcher at several institutions including Perimeter Institute for Theoretical Physics in Waterloo, Ontario, Canada and the Max Planck Institute for Gravitational physics in Potsdam, Germany. My research focus ...   I received a PhD in physics from Ecole Normale Sup\'{e}rieure de Lyon, under the supervision of Laurent Freidel. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
