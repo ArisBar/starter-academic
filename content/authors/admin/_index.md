@@ -18,8 +18,8 @@ organizations:
 
 # Interests to show in About widget
 interests:
-  - Machine learning 
-  - Theory of deep learning
+  #- Machine learning 
+  - Theories of deep learning
   - Representation learning 
   - Out of distribution generalization
   - Applications in computer vision, NLP
