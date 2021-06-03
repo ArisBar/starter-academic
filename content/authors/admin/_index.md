@@ -81,7 +81,7 @@ highlight_name: false
 I'm a mathematical physicist working on artificial intelligence.  Currently a PhD candidate at Mila advised by Simon Lacoste-Julien, 
 I work on foundational aspects of deep learning algorithms, with a focus on understanding their robustness and generalization performance.  
 
-Before joining Mila, I worked as a researcher in theoretical physics at several institutions including the Perimeter Institute in Waterloo, Ontario, and the Max Planck Institute in Potsdam, Germany.  My research work was mainly about quantum gravity. I received a PhD in physics from Ecole Normale Supérieure de Lyon, under the supervision of Laurent Freidel. 
+Before joining Mila, I was a Postcotoral Fellow hosted by the University of Waterloo and a junior scientist at the Max Planck Institute in Potsdam, Germany.  My research work was mainly about quantum gravity. I received a PhD in physics from ENS Lyon, under the supervision of Laurent Freidel. 
 
 {{< icon name="download" pack="fas" >}} See my {{< staticref "uploads/demo_resume.pdf" "newtab" >}} curriculum vitae {{< /staticref >}}.
 
