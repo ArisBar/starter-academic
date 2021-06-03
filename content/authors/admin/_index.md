@@ -81,7 +81,7 @@ highlight_name: false
 I'm a mathematical physicist working on artificial intelligence.  Currently a PhD candidate at Mila - Quebec AI Institute advised by Simon Lacoste-Julien, 
 I work on foundational aspects of deep learning algorithms, with a focus on understanding their robustness and generalization performance.  
 
-Before joining Mila, I was a Humboldt Fellow hosted by the University of Waterloo, and worked as a junior scientist at the Max Planck Institute in Potsdam, Germany.  My research was mainly about quantum gravity. I received a PhD in physics from Ecole Normale Supérieure de Lyon, under the supervision of Laurent Freidel. 
+Before joining Mila, I was a Humboldt Fellow hosted by the University of Waterloo, and prior to that, a junior scientist at the Max Planck Institute in Potsdam, Germany.  My research was mainly about quantum gravity. I received a PhD in physics from Ecole Normale Supérieure de Lyon, supervised by Laurent Freidel. 
 
 I love teaching. I've taught numerous classes in mathematics, physics and computer science as a course lecturer at the University of Waterloo and McGill, and as a teacher’s assistant at ENS  Lyon and Udem.
 
