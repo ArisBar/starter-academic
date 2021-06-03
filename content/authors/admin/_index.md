@@ -20,6 +20,7 @@ organizations:
 interests:
   #- Machine learning 
   - Theories of deep learning
+  - Statistical learning theory
   - Representation learning 
   - Out of distribution generalization
   - Applications in computer vision, NLP
