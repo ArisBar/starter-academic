@@ -40,7 +40,7 @@ education:
   #  institution: University Paris-Saclay 
   #  year: 2002
   - course: Stipendary student
-    institution: ENS Paris-Saclay
+    institution: ENS Paris-Saclay, mathematics department
     year: 2002-2004
 
 # Social/Academic Networking
