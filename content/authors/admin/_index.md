@@ -22,7 +22,7 @@ interests:
   - Theory of deep learning
   - Representation learning 
   - Out of distribution generalization
-  - Applications: computer vision, NLP
+  - Applications in computer vision, NLP
 
 # Education to show in About widget
 education:
