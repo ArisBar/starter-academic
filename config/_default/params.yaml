@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: minimal
+theme: jekyll-theme-cayman #minimal
 day_night: true
 font: ''
 font_size: L
