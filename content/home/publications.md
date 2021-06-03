@@ -10,7 +10,7 @@ headless: true
 weight: 90
 
 title: Articles
-subtitle: [More Publications >>](./publication/)
+subtitle: ''
 
 
 content:
