@@ -18,10 +18,11 @@ organizations:
 
 # Interests to show in About widget
 interests:
-  - Machine learning (deep learning)
-  - Statistical learning theory
+  - Machine learning 
+  - Theory of deep learning
   - Representation learning 
   - Out of distribution generalization
+  - Applications: computer vision, NLP
 
 # Education to show in About widget
 education:
@@ -47,18 +48,18 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
+- icon: google-scholar  
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=ZK7OfxkAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://github.com/ArisBar
+#- icon: linkedin
+#  icon_pack: fab
+#  link: https://www.linkedin.com/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -68,14 +69,19 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "aristidebaratin@hotmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm a theoretical physicist working on artificial intelligence.  Currently a PhD candidate at Mila advised by Simon Lacoste-Julien, 
+I work on foundational aspects of deep learning algorithms, with a focus on understanding their robustness and generalization performance.  
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Before joining Mila, I worked as a researcher at several institutions including Perimeter Institute for Theoretical Physics in Waterloo, ON, and the Max Planck Institute for Gravitational physics in Potsdam, Germany. My research spanned   I received my PhD in physics from ENS Lyon.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+
+
+
