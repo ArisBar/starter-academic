@@ -3,7 +3,7 @@ title: "On the Spectral Bias of Neural Networks"
 authors: [N. Rahaman*, A. Baratin*,  D. Arpit, F. Draxler, M. Lin, F. A. Hamprecht, Y. Bengio, A. Courville]
 #- admin
 #- Robert Ford
-date: "2013-07-01T00:00:00Z"
+date: "2018-07-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,8 +16,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "ICML, 2019"
-publication_short: "ICML, 2019"
+publication: "ICML 2019"
+publication_short: "ICML 2019"
 
 abstract: Neural networks are known to be a class of highly expressive functions able to fit even random input- output mappings with 100\% accuracy. In this work we present properties of neural networks that complement this aspect of expressivity. By using tools from Fourier analysis, we highlight a learning bias of deep networks towards low frequency functions ? i.e. functions that vary glob- ally without local fluctuations ? which manifests itself as a frequency-dependent learning speed. Intuitively, this property is in line with the observation that over-parameterized networks prioritize learning simple patterns that generalize across data samples. We also investigate the role of the shape of the data manifold by presenting empirical and theoretical evidence that, somewhat counter-intuitively, learning higher frequencies gets easier with increasing manifold complexity.
 
