@@ -1,5 +1,5 @@
 ---
-title: "Quantum simplicial geometry in the group field theory formalism: reconsidering the Barrett-Crane model."
+title: "Quantum simplicial geometry in the group field theory formalism: reconsidering the Barrett-Crane model"
 authors: [admin, Daniele Oriti]
 #- admin
 #- Robert Ford
