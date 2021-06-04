@@ -19,7 +19,7 @@ publication_types: ["2"]
 publication: "Physical Review D 90, 024069"
 publication_short: "Physical Review D, 2014"
 
-abstract: Group field theories (GFT) are higher dimensional generalizations of matrix models whose Feynman diagrams are dual to triangulations. Here we propose a modification of GFT models that includes extra field indices keeping track of the bubbles of the graphs in the Feynman evaluations. In dimension three, our model exhibits new symmetries, interpreted as the action of the vertex translations of the triangulation. The extra field indices have an elegant algebraic interpretation: they encode the structure of a semi-simple algebra. Remarkably, when the algebra is chosen to be associative, the new structure contributes a topological invariant from each bubble of the graph to the Feynman amplitudes.
+abstract: "Group field theories (GFT) are higher dimensional generalizations of matrix models whose Feynman diagrams are dual to triangulations. Here we propose a modification of GFT models that includes extra field indices keeping track of the bubbles of the graphs in the Feynman evaluations. In dimension three, our model exhibits new symmetries, interpreted as the action of the vertex translations of the triangulation. The extra field indices have an elegant algebraic interpretation: they encode the structure of a semi-simple algebra. Remarkably, when the algebra is chosen to be associative, the new structure contributes a topological invariant from each bubble of the graph to the Feynman amplitudes."
 
 # Summary. An optional shortened abstract.
 summary: "Physical Review D, 2014"
