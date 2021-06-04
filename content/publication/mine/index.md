@@ -35,9 +35,9 @@ tags:
 featured: false
 
 links:
-- name: talk
-  url: https://vimeo.com/287766705
-  icon_pack: fab
+#- name: talk
+#  url: https://vimeo.com/287766705
+#  icon_pack: fab
   
 url_pdf: 'https://arxiv.org/abs/1801.04062'
 url_code: ''
@@ -46,7 +46,7 @@ url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://vimeo.com/287766705'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
