@@ -1,9 +1,15 @@
 ---
 title: "Implicit Regularization via Neural Feature Alignment"
-authors: [A. Baratin, T. George, C.Laurent, R Devon Hjelm, 
-G. Lajoie, P. Vincent, S. Lacoste-Julien]
-#- admin
-#- Robert Ford
+authors: 
+#[A. Baratin, T. George, C.Laurent, R Devon Hjelm, 
+#G. Lajoie, P. Vincent, S. Lacoste-Julien]
+- admin
+- Thomas George
+- Cesar Laurent
+- R Devon Hjelm
+- Guillaume Lajoie
+- Pascal Vincent
+- Simon Lacoste-Julien
 date: "2021-05-01T00:00:00Z"
 doi: ""
 
