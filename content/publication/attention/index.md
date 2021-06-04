@@ -3,7 +3,7 @@ title: "On the Regularity of Attention"
 authors: [J. Vuckovic, {\bf A. Baratin}, R. Tachet des Combes]
 #- admin
 #- Robert Ford
-date: ""
+date: "2021-03-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
