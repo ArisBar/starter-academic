@@ -29,9 +29,9 @@ tags:
 featured: false
 
 links:
-- name: talk
-  url: http://pirsa.org/displayFlash.php?id=13070086
-  icon_pack: fab
+#- name: talk
+#  url: http://pirsa.org/displayFlash.php?id=13070086
+#  icon_pack: fab
   
 url_pdf: 'https://arxiv.org/abs/1307.5026'
 url_code: ''
@@ -40,7 +40,7 @@ url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'http://pirsa.org/displayFlash.php?id=13070086'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
