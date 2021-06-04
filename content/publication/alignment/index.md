@@ -2,6 +2,8 @@
 title: "Implicit Regularization via Neural Feature Alignment"
 authors: [A. Baratin*, T. George* C. Laurent, R Devon Hjelm, 
 G. Lajoie, P. Vincent, S. Lacoste-Julien]
+#- admin
+#- Robert Ford
 date: "2013-07-01T00:00:00Z"
 doi: ""
 
@@ -15,23 +17,23 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "AISTATS 2021"
-publication_short: "AISTATS 2021"
+publication: "AISTATS, 2021"
+publication_short: "AISTATS, 2021"
 
-abstract: "We approach the problem of implicit regularization in deep learning from a geometrical viewpoint. We highlight a regularization effect induced by a dynamical alignment of the neural tangent features introduced by Jacot et al, along a small number of task-relevant directions. This can be interpreted as a combined mechanism of feature selection and compression. By extrapolating a new analysis of Rademacher complexity bounds for linear models, we motivate and study a heuristic complexity measure that captures this phenomenon, in terms of sequences of tangent kernel classes along optimization paths."
+abstract: We approach the problem of implicit regularization in deep learning from a geometrical viewpoint. We highlight a regularization effect induced by a dynamical alignment of the neural tangent features introduced by Jacot et al, along a small number of task-relevant directions. This can be interpreted as a combined mechanism of feature selection and compression. By extrapolating a new analysis of Rademacher complexity bounds for linear models, we motivate and study a heuristic complexity measure that captures this phenomenon, in terms of sequences of tangent kernel classes along optimization paths.
 
 # Summary. An optional shortened abstract.
-summary: "AISTATS 2021"
+summary: "AISTATS, 2021"
 
-tags: []
+tags:
+- Source Themes
 featured: false
 
-# Custom links (uncomment lines below)
- links:
- - name: arXiv
-   url: https://arxiv.org/abs/2008.00938
-   icon_pack: fab
-
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/2008.00938
+  icon_pack: fab
+  
 url_pdf: ''
 url_code: ''
 url_dataset: ''
@@ -44,7 +46,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ""
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ""
   preview_only: false
 
@@ -63,12 +65,13 @@ projects: []
 slides: ""
 ---
 
-{{% callout note %}}
+{{% alert note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+{{% /alert %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
+{{% alert note %}}
+Click the *Slides* button above to demo Academic's Markdown slides feature.
+{{% /alert %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
