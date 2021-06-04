@@ -35,9 +35,9 @@ tags:
 featured: false
 
 links:
-#- name: arXiv
-#  url: https://arxiv.org/abs/1801.04062
-#  icon_pack: fab
+- name: talk
+  url: https://vimeo.com/287766705
+  icon_pack: fab
   
 url_pdf: 'https://arxiv.org/abs/1801.04062'
 url_code: ''
