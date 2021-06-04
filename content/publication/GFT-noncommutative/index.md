@@ -1,5 +1,5 @@
 ---
-title: "Group field theory with non-commutative metric variables."
+title: "Group field theory with non-commutative metric variables"
 authors: [admin, Daniele Oriti]
 #- admin
 #- Robert Ford
