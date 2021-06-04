@@ -1,5 +1,5 @@
 ---
-title: "Non-commutative flux representation for loop quantum gravity."
+title: "Non-commutative flux representation for loop quantum gravity"
 authors: [admin, Bianca Dittrich, Daniele Oriti, Johannes Tambornino]
 #- admin
 #- Robert Ford
