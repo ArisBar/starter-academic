@@ -1,5 +1,5 @@
 ---
-title: "Hidden quantum gravity in 4d Feynman diagrams: Emergence of spin foams."
+title: "Hidden quantum gravity in 4d Feynman diagrams: Emergence of spin foams"
 authors: [admin, Laurent Freidel]
 #- admin
 #- Robert Ford
