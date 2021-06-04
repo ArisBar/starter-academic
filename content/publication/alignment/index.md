@@ -1,6 +1,6 @@
 ---
 title: "Implicit Regularization via Neural Feature Alignment"
-authors: [A. Baratin*, T. George*, C.Laurent, R Devon Hjelm, 
+authors: [A. Baratin, T. George, C.Laurent, R Devon Hjelm, 
 G. Lajoie, P. Vincent, S. Lacoste-Julien]
 #- admin
 #- Robert Ford
