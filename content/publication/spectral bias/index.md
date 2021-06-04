@@ -45,7 +45,7 @@ url_code: 'https://github.com/ArisBar/SpectralBias'
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'https://icml.cc/media/Slides/icml/2019/grandball(13-11-00)-13-11-20-4369-on_the_spectral.pdf'
 url_source: ''
 url_video: ''
 
