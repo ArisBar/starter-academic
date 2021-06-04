@@ -1,5 +1,5 @@
 ---
-title: "Group field theory and simplicial gravity path integrals: A model for Holst-Plebanski gravity."
+title: "Group field theory and simplicial gravity path integrals: A model for Holst-Plebanski gravity"
 authors: [admin, Daniele Oriti]
 #- admin
 #- Robert Ford
