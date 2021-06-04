@@ -3,7 +3,7 @@ title: "MINE: Mutual Information Neural Estimation"
 authors: [I. Belghazi, {\bf A. Baratin}, S. Rajeswar, S. Ozair, Y. Bengio, A. Courville, R Devon Hjelm]
 #- admin
 #- Robert Ford
-date: "2013-07-01T00:00:00Z"
+date: "2019-01-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
