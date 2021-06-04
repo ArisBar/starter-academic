@@ -1,13 +1,13 @@
 ---
 title: "MINE: Mutual Information Neural Estimation"
-authors: [I. Belghazi, {\bf A. Baratin}, S. Rajeswar, S. Ozair, Y. Bengio, A. Courville, R Devon Hjelm]
+authors: [I. Belghazi, A. Baratin, S. Rajeswar, S. Ozair, Y. Bengio, A. Courville, R Devon Hjelm]
 #- admin
 #- Robert Ford
-date: "2019-01-01T00:00:00Z"
+date: "2018-07-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2018-07-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,13 +16,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "ICML, 2019"
-publication_short: "ICML, 2019"
+publication: "ICML, 2018"
+publication_short: "ICML, 2018"
 
 abstract: "We argue that the estimation of mutual information between high dimensional continuous random variables can be achieved by gradient descent over neural networks. We present a Mutual Information Neural Estimator (MINE) that is linearly scalable in dimensionality as well as in sample size, trainable through back-prop, and strongly consistent. We present a handful of applications on which MINE can be used to minimize or maximize mutual information. We apply MINE to improve adversarially trained generative models. We also use MINE to implement Information Bottleneck, applying it to supervised classification; our results demonstrate substantial improvement in flexibility and performance in these settings."
 
 # Summary. An optional shortened abstract.
-summary: "ICML, 2019"
+summary: "ICML, 2018"
 
 tags:
 - Source Themes
