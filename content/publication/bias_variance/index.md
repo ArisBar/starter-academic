@@ -3,7 +3,7 @@ title: "A Modern Take on the Bias-Variance Tradeoff in Neural Networks"
 authors: [B. Neal, S. Mittal, A. Baratin, V.Tantia, M. Scicluna, S. Lacoste-Julien, I. Mitliagkas]
 #- admin
 #- Robert Ford
-date: "2013-07-01T00:00:00Z"
+date: "2018-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
