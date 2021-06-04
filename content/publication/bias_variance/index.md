@@ -35,11 +35,11 @@ tags:
 featured: false
 
 links:
-#- name: arXiv
-#  url: https://arxiv.org/abs/1810.08591
-#  icon_pack: fab
+- name: arXiv
+  url: https://arxiv.org/abs/1810.08591
+  icon_pack: fab
   
-url_pdf: 'https://arxiv.org/abs/1810.08591'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
