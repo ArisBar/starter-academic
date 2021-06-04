@@ -4,11 +4,11 @@ authors: [A. Baratin*, T. George* C. Laurent, R Devon Hjelm,
 G. Lajoie, P. Vincent, S. Lacoste-Julien]
 #- admin
 #- Robert Ford
-date: "2021"
+date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: ""
+publishDate: "20"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
