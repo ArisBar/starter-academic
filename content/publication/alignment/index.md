@@ -36,9 +36,9 @@ tags:
 featured: false
 
 links:
-- name: talk
-  url: https://slideslive.com/38953151/implicit-regularization-via-neural-feature-alignment?ref=speaker-24238-latest
-  icon_pack: fab
+#- name: talk
+#  url: https://slideslive.com/38953151/implicit-regularization-via-neural-feature-alignment?ref=speaker-24238-latest
+#  icon_pack: fab
   
 url_pdf: 'https://arxiv.org/abs/2008.00938'
 url_code: 'https://github.com/ArisBar/ntk_alignment'
@@ -47,7 +47,7 @@ url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://slideslive.com/38953151/implicit-regularization-via-neural-feature-alignment?ref=speaker-24238-latest'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
