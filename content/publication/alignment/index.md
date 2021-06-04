@@ -4,7 +4,7 @@ authors: [A. Baratin*, T. George* C. Laurent, R Devon Hjelm,
 G. Lajoie, P. Vincent, S. Lacoste-Julien]
 #- admin
 #- Robert Ford
-date: ""
+date: "2020-08-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
