@@ -29,11 +29,11 @@ tags:
 featured: false
 
 links:
-#- name: talk
-#  url: http://pirsa.org/displayFlash.php?id=13070086
-#  icon_pack: fab
+- name: arXiv
+  url: https://arxiv.org/abs/1307.5026
+  icon_pack: fab
   
-url_pdf: 'https://arxiv.org/abs/1307.5026'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
