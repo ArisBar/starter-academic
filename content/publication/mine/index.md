@@ -9,11 +9,11 @@ authors:
 - Yoshua Bengio
 - Aaron Courville
 - R Devon Hjelm
-date: "2018-07-01T00:00:00Z"
+date: "2018-01-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2018-07-01T00:00:00Z"
+publishDate: "2018-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
