@@ -1,6 +1,6 @@
 ---
 title: "A3T: Adversarially Augmented Adversarial Training"
-authors: [A. Erraqabi*, A. Baratin, Y. Bengio, S. Lacoste-Julien]
+authors: [A. Erraqabi*, A. Baratin*, Y. Bengio, S. Lacoste-Julien]
 #- admin
 #- Robert Ford
 date: "2018-01-01T00:00:00Z"
