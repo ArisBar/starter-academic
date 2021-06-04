@@ -16,13 +16,13 @@ publishDate: "2018-07-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "ICML, 2018"
-publication_short: "ICML, 2018"
+publication: "ICML 2018"
+publication_short: "ICML 2018"
 
 abstract: "We argue that the estimation of mutual information between high dimensional continuous random variables can be achieved by gradient descent over neural networks. We present a Mutual Information Neural Estimator (MINE) that is linearly scalable in dimensionality as well as in sample size, trainable through back-prop, and strongly consistent. We present a handful of applications on which MINE can be used to minimize or maximize mutual information. We apply MINE to improve adversarially trained generative models. We also use MINE to implement Information Bottleneck, applying it to supervised classification; our results demonstrate substantial improvement in flexibility and performance in these settings."
 
 # Summary. An optional shortened abstract.
-summary: "ICML, 2018"
+summary: "ICML 2018"
 
 tags:
 - Source Themes
