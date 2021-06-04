@@ -1,10 +1,10 @@
 ---
 title: "A3T: Adversarially Augmented Adversarial Training"
 authors: 
-- A. Erraqabi*
-- A. Baratin*
-- Y. Bengio
-- S. Lacoste-Julien
+- Akram Erraqabi
+- admin
+- Yoshua Bengio
+- Simon Lacoste-Julien
 date: "2018-01-01T00:00:00Z"
 doi: ""
 
