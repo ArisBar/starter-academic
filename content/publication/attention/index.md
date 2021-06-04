@@ -1,6 +1,8 @@
 ---
 title: "On the Regularity of Attention"
 authors: [J. Vuckovic, {\bf A. Baratin}, R. Tachet des Combes]
+#- admin
+#- Robert Ford
 date: "2013-07-01T00:00:00Z"
 doi: ""
 
@@ -17,20 +19,20 @@ publication_types: ["1"]
 publication: "arxiv, 2021"
 publication_short: "arxiv, 2021"
 
-abstract: "Attention is a powerful component of modern neural networks across a wide variety of domains. In this paper, we seek to quantify the regularity (i.e. the amount of smoothness) of the attention operation. To accomplish this goal, we propose a new mathematical framework that uses measure theory and integral operators to model attention. We show that this framework is consistent with the usual definition, and that it captures the essential properties of attention. Then we use this framework to prove that, on compact domains, the attention operation is Lipschitz continuous and provide an estimate of its Lipschitz constant. Additionally, by focusing on a specific type of attention, we extend these Lipschitz continuity results to non-compact domains. We also discuss the effects regularity can have on NLP models, and applications to invertible and infinitely-deep networks."
+abstract: Attention is a powerful component of modern neural networks across a wide variety of domains. In this paper, we seek to quantify the regularity (i.e. the amount of smoothness) of the attention operation. To accomplish this goal, we propose a new mathematical framework that uses measure theory and integral operators to model attention. We show that this framework is consistent with the usual definition, and that it captures the essential properties of attention. Then we use this framework to prove that, on compact domains, the attention operation is Lipschitz continuous and provide an estimate of its Lipschitz constant. Additionally, by focusing on a specific type of attention, we extend these Lipschitz continuity results to non-compact domains. We also discuss the effects regularity can have on NLP models, and applications to invertible and infinitely-deep networks.
 
 # Summary. An optional shortened abstract.
-summary: "arXiv, 2021"
+summary: "arxiv, 2021"
 
-tags: []
+tags:
+- Source Themes
 featured: false
 
-# Custom links (uncomment lines below)
- links:
- - name: arXiv
-   url: https://arxiv.org/abs/2102.05628
-   icon_pack: fab
-
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/2102.05628
+  icon_pack: fab
+  
 url_pdf: ''
 url_code: ''
 url_dataset: ''
@@ -43,7 +45,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ""
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ""
   preview_only: false
 
@@ -62,12 +64,12 @@ projects: []
 slides: ""
 ---
 
-{{% callout note %}}
+{{% alert note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+{{% /alert %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
+{{% alert note %}}
+Click the *Slides* button above to demo Academic's Markdown slides feature.
+{{% /alert %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
