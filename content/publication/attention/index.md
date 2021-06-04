@@ -18,8 +18,8 @@ publishDate: "2021-02-01T00:00:00Z"
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: "arxiv, 2021"
-publication_short: "arxiv, 2021"
+publication: "arXiv, 2021"
+publication_short: "arXiv, 2021"
 
 abstract: Attention is a powerful component of modern neural networks across a wide variety of domains. In this paper, we seek to quantify the regularity (i.e. the amount of smoothness) of the attention operation. To accomplish this goal, we propose a new mathematical framework that uses measure theory and integral operators to model attention. We show that this framework is consistent with the usual definition, and that it captures the essential properties of attention. Then we use this framework to prove that, on compact domains, the attention operation is Lipschitz continuous and provide an estimate of its Lipschitz constant. Additionally, by focusing on a specific type of attention, we extend these Lipschitz continuity results to non-compact domains. We also discuss the effects regularity can have on NLP models, and applications to invertible and infinitely-deep networks.
 
