@@ -6,7 +6,7 @@ authors:
  - Pierre-André Brousseau
  - Anirudth Goyal
  - Alex Lamb
-date: "2017-07-01T00:00:00Z"
+date: "2017-01-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,13 +19,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: "technical report, 2017"
-publication_short: "technical report, 2017"
+publication: "Technical report, 2017"
+publication_short: "Technical report, 2017"
 
 abstract: "In this article, we report our work on the Kaggle Challenge: Flavours of Physics (2016). The main goal of this challenge is to develop powerful classifiers for the detection of \"new physics\"  -- specifically,  violation the lepton flavour conservation guaranteed by the standard model -- in the Large Hadron Collider (LHC).  We build several models for the challenge, which include boosted decision trees and neural networks, and report our findings on their performance. We include a cautionary tale of how the use of some specific features of the data can dramatically impact  the physical relevance of the results."
 
 # Summary. An optional shortened abstract.
-summary: "technical report, 2017"
+summary: "Technical report, 2017"
 
 tags:
 - Source Themes
