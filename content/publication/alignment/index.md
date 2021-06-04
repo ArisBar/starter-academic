@@ -41,7 +41,7 @@ links:
 #  icon_pack: fab
   
 url_pdf: 'https://arxiv.org/abs/2008.00938'
-url_code: 'https://github.com/tfjgeorge/ntk_alignment'
+url_code: 'https://github.com/ArisBar/ntk_alignment'
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -52,7 +52,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
