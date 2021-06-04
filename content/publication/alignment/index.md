@@ -36,11 +36,11 @@ tags:
 featured: false
 
 links:
-#- name: talk
-#  url: https://slideslive.com/38953151/implicit-regularization-via-neural-feature-alignment?ref=speaker-24238-latest
-#  icon_pack: fab
+- name: arXiv
+  url: https://arxiv.org/abs/2008.00938
+  icon_pack: fab
   
-url_pdf: 'https://arxiv.org/abs/2008.00938'
+url_pdf: ''
 url_code: 'https://github.com/ArisBar/ntk_alignment'
 url_dataset: ''
 url_poster: ''
