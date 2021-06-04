@@ -41,7 +41,7 @@ links:
 #  icon_pack: fab
   
 url_pdf: 'https://arxiv.org/abs/2008.00938'
-url_code: ''
+url_code: 'https://github.com/tfjgeorge/ntk_alignment'
 url_dataset: ''
 url_poster: ''
 url_project: ''
