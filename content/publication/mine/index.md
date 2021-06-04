@@ -2,12 +2,12 @@
 title: "MINE: Mutual Information Neural Estimation"
 authors: 
 #[I. Belghazi, A. Baratin, S. Rajeswar, S. Ozair, Y. Bengio, A. Courville, R Devon Hjelm]
-- I. Belghazi
-- A. Baratin
-- S. Rajeswar
-- S. Ozair
-- Y. Bengio
-- A. Courville
+- Mohamed Ishmael Belghazi
+- admin
+- Sai Rajeswar
+- Sherjil Ozair
+- Yoshua Bengio
+- Aaron Courville
 - R Devon Hjelm
 date: "2018-07-01T00:00:00Z"
 doi: ""
