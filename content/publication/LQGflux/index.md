@@ -1,13 +1,13 @@
 ---
 title: "Non-commutative flux representation for loop quantum gravity."
-authors: [A.Baratin, B.Dittrich and J.Tambornino]
+authors: [admin, Bianca Dittrich, Daniele Oriti, Johannes Tambornino]
 #- admin
 #- Robert Ford
-date: "2013-07-01T00:00:00Z"
+date: "2011-07-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2011-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
