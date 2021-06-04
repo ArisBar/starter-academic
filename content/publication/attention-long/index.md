@@ -3,11 +3,11 @@ title: "A Mathematical Theory of Attention"
 authors: [James Vuckovic, admin, Remi Tachet des Combes]
 #- admin
 #- Robert Ford
-date: "2020-08-01T00:00:00Z"
+date: "2020-07-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-08-01T00:00:00Z"
+publishDate: "2020-07-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
