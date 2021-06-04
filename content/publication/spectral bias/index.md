@@ -36,11 +36,11 @@ tags:
 featured: false
 
 links:
-#- name: arXiv
-#  url: https://arxiv.org/abs/1806.08734
-#  icon_pack: fab
+- name: arXiv
+  url: https://arxiv.org/abs/1806.08734
+  icon_pack: fab
   
-url_pdf: 'https://arxiv.org/abs/1806.08734'
+url_pdf: ''
 url_code: 'https://github.com/ArisBar/SpectralBias'
 url_dataset: ''
 url_poster: ''
