@@ -29,11 +29,11 @@ tags:
 featured: false
 
 links:
-#- name: arXiv
-#  url: https://arxiv.org/abs/1002.4723
-#  icon_pack: fab
+- name: arXiv
+  url: https://arxiv.org/abs/1002.4723
+  icon_pack: fab
   
-url_pdf: 'https://arxiv.org/abs/1002.4723'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
