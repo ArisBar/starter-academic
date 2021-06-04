@@ -2,9 +2,9 @@
 title: "On the Regularity of Attention"
 authors: 
 #[J. Vuckovic, A. Baratin, R. Tachet des Combes]
-- J. Vuckovic
-- A. Baratin
-- R. Tachet des Combes
+- James Vuckovic
+- admin
+- Rémi Tachet des Combes
 date: "2021-03-01T00:00:00Z"
 doi: ""
 
