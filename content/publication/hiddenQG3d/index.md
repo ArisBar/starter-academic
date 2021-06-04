@@ -1,5 +1,5 @@
 ---
-title: "Hidden quantum gravity in 3d Feynman diagrams."
+title: "Hidden quantum gravity in 3d Feynman diagrams"
 authors: [admin, Laurent Freidel]
 #- admin
 #- Robert Ford
