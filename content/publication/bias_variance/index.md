@@ -1,6 +1,6 @@
 ---
 title: "A Modern Take on the Bias-Variance Tradeoff in Neural Networks"
-authors: [B. Neal, S. Mittal, {\bf A. Baratin}, V.Tantia, M. Scicluna, S. Lacoste-Julien, I. Mitliagkas]
+authors: [B. Neal, S. Mittal, A. Baratin, V.Tantia, M. Scicluna, S. Lacoste-Julien, I. Mitliagkas]
 #- admin
 #- Robert Ford
 date: "2013-07-01T00:00:00Z"
