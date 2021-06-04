@@ -31,11 +31,11 @@ tags:
 featured: false
 
 links:
-#- name: arXiv
-#  url: https://arxiv.org/abs/2102.05628
-#  icon_pack: fab
+- name: arXiv
+  url: https://arxiv.org/abs/2102.05628
+  icon_pack: fab
   
-url_pdf: 'https://arxiv.org/abs/2102.05628'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
