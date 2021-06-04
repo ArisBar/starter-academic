@@ -1,6 +1,8 @@
 ---
 title: "A3T: Adversarially Augmented Adversarial Training"
-authors: [A. Erraqabi*, A. Baratin*, Y. Bengio, S. Lacoste-Julien]
+authors: [A. Erraqabi*, A. Baratin, Y. Bengio, S. Lacoste-Julien]
+#- admin
+#- Robert Ford
 date: "2013-07-01T00:00:00Z"
 doi: ""
 
@@ -14,23 +16,23 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "NIPS 2017 - Machine Deception Workshop (oral)"
-publication_short: "NIPS 2017 - Machine Deception Workshop"
+publication: NIPS 2017, Machine Deception Workshop 
+publication_short: NIPS 2017, Machine Deception Workshop
 
-abstract: "We argue that the estimation of mutual information between high dimensional continuous random variables can be achieved by gradient descent over neural networks. We present a Mutual Information Neural Estimator (MINE) that is linearly scalable in dimensionality as well as in sample size, trainable through back-prop, and strongly consistent. We present a handful of applications on which MINE can be used to minimize or maximize mutual information. We apply MINE to improve adversarially trained generative models. We also use MINE to implement Information Bottleneck, applying it to supervised classification; our results demonstrate substantial improvement in flexibility and performance in these settings."
+abstract: Recent research showed that deep neural networks are highly sensitive to so-called adversarial perturbations, which are tiny perturbations of the input data purposely designed to fool a machine learning classifier. Most classification models, including deep learning models, are highly vulnerable to adversarial attacks. In this work, we investigate a procedure to improve adversarial robustness of deep neural networks through enforcing representation invariance. The idea is to train the classifier jointly with a discriminator attached to one of its hidden layer and trained to filter the adversarial noise. We perform preliminary experiments to test the viability of the approach and to compare it to other standard adversarial training methods.
 
 # Summary. An optional shortened abstract.
-summary: "NIPS 2017 - Machine Deception Workshop"
+summary: 'NIPS 2017, Machine Deception Workshop'
 
-tags: []
+tags:
+- Source Themes
 featured: false
 
-# Custom links (uncomment lines below)
- links:
- - name: arXiv
-   url: https://arxiv.org/abs/1801.04055
-   icon_pack: fab
-
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/1801.04055
+  icon_pack: fab
+  
 url_pdf: ''
 url_code: ''
 url_dataset: ''
@@ -43,7 +45,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ""
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ""
   preview_only: false
 
@@ -62,12 +64,13 @@ projects: []
 slides: ""
 ---
 
-{{% callout note %}}
+{{% alert note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+{{% /alert %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
+{{% alert note %}}
+Click the *Slides* button above to demo Academic's Markdown slides feature.
+{{% /alert %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
