@@ -41,7 +41,7 @@ links:
 #  icon_pack: fab
   
 url_pdf: 'https://arxiv.org/abs/1806.08734'
-url_code: ''
+url_code: 'https://github.com/ArisBar/SpectralBias'
 url_dataset: ''
 url_poster: ''
 url_project: ''
