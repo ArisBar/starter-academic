@@ -4,11 +4,11 @@ authors: [A. Baratin*, T. George* C. Laurent, R Devon Hjelm,
 G. Lajoie, P. Vincent, S. Lacoste-Julien]
 #- admin
 #- Robert Ford
-date: "2013-07-01T00:00:00Z"
+date: "2021"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: ""
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -17,13 +17,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "AISTATS, 2021"
-publication_short: "AISTATS, 2021"
+publication: "AISTATS 2021"
+publication_short: "AISTATS 2021"
 
 abstract: We approach the problem of implicit regularization in deep learning from a geometrical viewpoint. We highlight a regularization effect induced by a dynamical alignment of the neural tangent features introduced by Jacot et al, along a small number of task-relevant directions. This can be interpreted as a combined mechanism of feature selection and compression. By extrapolating a new analysis of Rademacher complexity bounds for linear models, we motivate and study a heuristic complexity measure that captures this phenomenon, in terms of sequences of tangent kernel classes along optimization paths.
 
 # Summary. An optional shortened abstract.
-summary: "AISTATS, 2021"
+summary: "AISTATS 2021"
 
 tags:
 - Source Themes
