@@ -1,8 +1,15 @@
 ---
 title: "On the Spectral Bias of Neural Networks"
-authors: [N. Rahaman*, A. Baratin*,  D. Arpit, F. Draxler, M. Lin, F. A. Hamprecht, Y. Bengio, A. Courville]
-#- admin
-#- Robert Ford
+authors: 
+# [N. Rahaman*, A. Baratin*,  D. Arpit, F. Draxler, M. Lin, F. A. Hamprecht, Y. Bengio, A. Courville]
+- Nasim Rahaman
+- admin
+- Devansh Arpit
+- Felix Draxler
+- Min Lin
+- Fred A. Hamprecht
+- Yoshua Bengio
+- Aaron Courville
 date: "2019-07-01T00:00:00Z"
 doi: ""
 
