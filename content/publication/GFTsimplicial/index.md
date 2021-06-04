@@ -1,13 +1,13 @@
 ---
 title: "Group field theory and simplicial gravity path integrals: A model for Holst-Plebanski gravity."
-authors: [A. Baratin, D.Oriti]
+authors: [admin, Daniele Oriti]
 #- admin
 #- Robert Ford
-date: "2013-07-01T00:00:00Z"
+date: "2012-07-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2012-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
