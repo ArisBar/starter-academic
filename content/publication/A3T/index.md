@@ -37,11 +37,11 @@ tags:
 featured: false
 
 links:
-- name: arXiv
-  url: https://arxiv.org/abs/1801.04055
-  icon_pack: fab
+#- name: arXiv
+#  url: https://arxiv.org/abs/1801.04055
+#  icon_pack: fab
   
-url_pdf: ''
+url_pdf: 'https://arxiv.org/abs/1801.04055'
 url_code: ''
 url_dataset: ''
 url_poster: ''
