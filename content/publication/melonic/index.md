@@ -1,13 +1,13 @@
 ---
 title: "Melonic phase transition in group field theory"
-authors: [A.Baratin, S.Carrozza, D.Oriti, J.Ryan, M.Smerlak]
+authors: [admin, Sylvain Carrozza, Daniele Oriti, James Ryan, Matteo Smerlak]
 #- admin
 #- Robert Ford
-date: "2013-07-01T00:00:00Z"
+date: "2014-07-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2014-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,7 +19,7 @@ publication_types: ["2"]
 publication: "Letters in Mathematical Physics 104 8, 1003-1017"
 publication_short: "Letters in Mathematical Physics, 2014"
 
-abstract: Group field theories have recently been shown to admit a 1/N expansion dominated by so-called `melonic graphs', dual to triangulated spheres. In this note, we deepen the analysis of this melonic sector. We obtain a combinatorial formula for the melonic amplitudes in terms of a graph polynomial related to a higher dimensional generalization of the Kirchhoff tree-matrix theorem. Simple bounds on these amplitudes show the existence of a phase transition driven by melonic interaction processes. We restrict our study to the Boulatov-Ooguri models, which describe topological BF theories and are the basis for the construction of four dimensional models of quantum gravity.
+abstract: "Group field theories have recently been shown to admit a 1/N expansion dominated by so-called \"melonic graphs\"', dual to triangulated spheres. In this note, we deepen the analysis of this melonic sector. We obtain a combinatorial formula for the melonic amplitudes in terms of a graph polynomial related to a higher dimensional generalization of the Kirchhoff tree-matrix theorem. Simple bounds on these amplitudes show the existence of a phase transition driven by melonic interaction processes. We restrict our study to the Boulatov-Ooguri models, which describe topological BF theories and are the basis for the construction of four dimensional models of quantum gravity."
 
 # Summary. An optional shortened abstract.
 summary: "Letters in Mathematical Physics, 2014"
@@ -29,11 +29,11 @@ tags:
 featured: false
 
 links:
-- name: arXiv
-  url: https://arxiv.org/abs/1307.5026
+- name: talk
+  url: http://pirsa.org/displayFlash.php?id=13070086
   icon_pack: fab
   
-url_pdf: ''
+url_pdf: 'https://arxiv.org/abs/1307.5026'
 url_code: ''
 url_dataset: ''
 url_poster: ''
