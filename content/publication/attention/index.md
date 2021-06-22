@@ -34,6 +34,9 @@ links:
 - name: arXiv
   url: https://arxiv.org/abs/2102.05628
   icon_pack: fab
+- name: press
+  url: https://syncedreview.com/2021/02/26/microsoft-universite-de-montreal-researchers-leverage-measure-theory-to-reveal-the-mathematical-properties-of-attention/
+  icon_pack: fab
   
 url_pdf: ''
 url_code: ''
