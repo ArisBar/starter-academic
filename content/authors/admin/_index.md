@@ -6,12 +6,13 @@ title: Aristide Baratin
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate
+role: Research Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Mila, Université de Montréal
-  url: https://mila.quebec/en/
+- name: Samsung SAIT AI Lab Montreal 
+#Mila, Université de Montréal
+  url: https://www.sait.samsung.co.kr/saithome/about/labs.do
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -19,24 +20,25 @@ organizations:
 # Interests to show in About widget
 interests:
   #- Machine learning 
-  - Theories of deep learning
-  - Statistical learning theory
+  - Machine learning
+  - Deep learning theory
+ # - Statistical learning theory
   - Representation learning 
   #- Out of distribution generalization
-  - Applications in computer vision, NLP
+  #- Applications in computer vision, NLP
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Machine Learning
+  - course: PhD, Machine Learning, 2022
     institution: Mila, Université de Montréal
     year: 2017-
-  - course: PhD in Theoretical Physics
+  - course: PhD, Theoretical Physics, 2009
     institution: ENS Lyon and Perimeter Institute, Waterloo
     year: 2009
-  - course: Master's degrees in Mathematics and Physics  
+  - course: Master's degrees, Mathematics \% Physics  
     institution: University Paris-Saclay and ENS Paris 
-    year: 2004
+    year: 2002-2004
   #- course: Msc in Mathematics 
   #  institution: University Paris-Saclay 
   #  year: 2002
@@ -79,10 +81,9 @@ email: "aristidebaratin@hotmail.com"
 highlight_name: false
 ---
 
-I'm a mathematical physicist working on artificial intelligence.  Currently a PhD candidate at Mila - Quebec AI Institute advised by Simon Lacoste-Julien, 
-I work on foundational aspects of deep learning algorithms, with a focus on understanding their robustness and generalization performance.  
+ I'm  a research scientist at Samsung SAIT AI Lab Montreal, within Mila - Quebec AI Institute. I work on foundational aspects of deep learning algorithms, with a focus on understanding their robustness and generalization performance. I recently obtained a Ph.D in machine learning at Mila, advised by Simon Lacoste-Julien. 
 
-Before joining Mila, I was a Humboldt Fellow hosted by the University of Waterloo, and prior to that, a junior scientist at the Max Planck Institute for Gravitational Physics in Potsdam, Germany.  My research work was mainly about quantum gravity, and associated mathematical structures from higher dimensional algebra and matrix models.  I received a PhD in theoretical physics from Ecole Normale Supérieure de Lyon, under the supervision of Laurent Freidel. 
+Before joining the Mila,  I did research on theoretical physics, first as a junior scientist at the Max Planck Institute in Potsdam, then as a Humboldt Fellow hosted by the University of Waterloo and McGill. My research work was mainly about quantum gravity and associated mathematical structures from higher dimensional algebra and matrix models.  I received a PhD in theoretical physics from Perimeter Institute and Ecole Normale Supérieure de Lyon, advised by  Laurent Freidel. 
 
 I also love teaching. I've taught numerous classes in mathematics, physics and computer science as a course lecturer at UW and McGill, and as a teacher’s assistant at ENS  Lyon and UdeM.
 
