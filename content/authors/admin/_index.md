@@ -81,7 +81,7 @@ email: "aristidebaratin@hotmail.com"
 highlight_name: false
 ---
 
- I'm  a research scientist at Samsung SAIT AI Lab Montreal, an academic research lab situated within Mila - Quebec AI Institute. My research revolves around foundational aspects of deep learning algorithms, with a focus on understanding their robustness and generalization performance. I recently earned a PhD in machine learning at Mila, University of Montreal, advised by Simon Lacoste-Julien. 
+ I'm  a research scientist at Samsung SAIT AI Lab Montreal, an academic-style research lab situated within Mila - Quebec AI Institute. My research revolves around foundational aspects of deep learning algorithms, with a focus on understanding their robustness and generalization performance. I recently earned a PhD in machine learning at Mila, University of Montreal, advised by Simon Lacoste-Julien. 
 
 Prior to my time at Mila,  I worked as a theorerical physicist, first as a junior scientist at the Max Planck Institute for Gravitational Physics in Potsdam, then as a Humboldt Fellow hosted by the University of Waterloo and McGill. My work was mainly about quantum gravity and associated mathematical structures from higher dimensional algebra and matrix models.  I received a PhD in physics from the Perimeter Institute in Waterloo and the Ecole Normale Supérieure de Lyon, under the supervision of  Laurent Freidel. 
 
