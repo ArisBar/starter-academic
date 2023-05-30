@@ -3,7 +3,7 @@ title: "CrossSplit: Mitigating Label Noise Memorization through Data Splitting"
 authors: [J. Kim, A. Baratin, Y. Zhang, S. Lacoste-Julien] 
 #- admin
 #- Robert Ford
-date: "2013-07-01T00:00:00Z"
+date: "2023-01-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

@@ -3,7 +3,7 @@ title: "Expressiveness and Learnability: A Unifying View for Evaluating Self-Sup
 authors: [Y. Lu, Z. Liu, A. Baratin, R. Laroche, A. Courville, A. Sordoni]
 #- admin
 #- Robert Ford
-date: "2020-08-01T00:00:00Z"
+date: "2022-06-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

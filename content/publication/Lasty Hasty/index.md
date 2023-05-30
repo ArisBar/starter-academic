@@ -3,7 +3,7 @@ title: "Lazy vs hasty: linearization in deep networks impacts learning schedule 
 authors: [T. George, G. Lajoie, A. Baratin] 
 #- admin
 #- Robert Ford
-date: "2013-07-01T00:00:00Z"
+date: "2022-12-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
