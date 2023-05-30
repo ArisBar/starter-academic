@@ -10,7 +10,7 @@ role: Research Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Samsung SAIT AI Lab Montreal 
+- name: Samsung -- SAIT AI Lab Montreal 
 #Mila, Université de Montréal
   url: https://www.sait.samsung.co.kr/saithome/about/labs.do
 
