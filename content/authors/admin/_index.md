@@ -30,13 +30,13 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD, Machine Learning, 2022
+  - course: PhD, Machine Learning
     institution: Mila, Université de Montréal
-    year: 2017-
-  - course: PhD, Theoretical Physics, 2009
-    institution: ENS Lyon and Perimeter Institute, Waterloo
+    year: 2022
+  - course: PhD, Theoretical Physics
+     institution: ENS Lyon and Perimeter Institute, Waterloo
     year: 2009
-  - course: Master's degrees, Mathematics \% Physics  
+  - course: Master's degrees, Mathematics % Physics  
     institution: University Paris-Saclay and ENS Paris 
     year: 2002-2004
   #- course: Msc in Mathematics 
@@ -85,7 +85,7 @@ highlight_name: false
 
 Prior to my time at Mila,  I worked as a theorerical physicist, first as a junior scientist at the Max Planck Institute for Gravitational Physics in Potsdam, then as a Humboldt Fellow hosted by the University of Waterloo and McGill. My work was mainly about quantum gravity and associated mathematical structures from higher dimensional algebra and matrix models.  I received a PhD in physics from the Perimeter Institute in Waterloo and the Ecole Normale Supérieure de Lyon, under the supervision of  Laurent Freidel. 
 
-I also love teaching. I've taught numerous classes in mathematics, physics and computer science as a course lecturer at UW and McGill, and as a teacher’s assistant at ENS  Lyon and UdeM.
+I also love teaching. I've taught numerous classes in mathematics, physics and computer science as a teacher’s assistant at ENS  Lyon and UdeM and as a course lecturer at UW and McGill.
 
 {{< icon name="download" pack="fas" >}} See my {{< staticref "uploads/resume.pdf" "newtab" >}} curriculum vitae {{< /staticref >}} for more details. 
 
