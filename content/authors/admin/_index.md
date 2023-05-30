@@ -6,7 +6,7 @@ title: Aristide Baratin
 superuser: true
 
 # Role/position/tagline
-role: Research Scientist
+role: AI Research Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
