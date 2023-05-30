@@ -36,7 +36,7 @@ education:
   - course: PhD, Theoretical Physics
     institution: ENS Lyon and Perimeter Institute, Waterloo
     year: 2009
-  - course: Master's degrees, Mathematics % Physics  
+  - course: Master's degrees, Mathematics & Physics  
     institution: University Paris-Saclay and ENS Paris 
     year: 2002-2004
   #- course: Msc in Mathematics 
