@@ -1,6 +1,6 @@
 ---
-title: "Lazy vs hasty: linearization in deep networks impacts learning schedule based on example difficulty"
-authors: [T. George, G. Lajoie, A. Baratin] 
+title: "CrossSplit: Mitigating Label Noise Memorization through Data Splitting"
+authors: [J. Kim, A. Baratin, Y. Zhang, S. Lacoste-Julien] 
 #- admin
 #- Robert Ford
 date: "2013-07-01T00:00:00Z"
@@ -13,16 +13,16 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "TMLR 2022"
-publication_short: "TMLR 2022"
+publication: "ICML, 2023"
+publication_short: "ICML, 2023"
 
-abstract: Among attempts at giving a theoretical account of the success of deep neural networks, a recent line of work has identified a so-called `lazy' regime in which the network can be well approximated by its linearization around initialization. Here we investigate the comparative effect of the lazy (linear) and feature learning (non-linear) regimes on subgroups of examples based on their difficulty. Specifically, we show that easier examples are given more weight in feature learning mode, resulting in faster training compared to more difficult ones. In other words, the non-linear dynamics tends to sequentialize the learning of examples of increasing difficulty. We illustrate this phenomenon across different ways to quantify example difficulty, including c-score, label noise, and in the presence of spurious correlations. Our results reveal a new understanding of how deep networks prioritize resources across example difficulty.
+abstract: We approach the problem of improving robustness of deep learning algorithms in the presence of label noise. Building upon existing label correction and co-teaching methods, we propose a novel training procedure to mitigate the memorization of noisy labels, called CrossSplit, which uses a pair of neural networks trained on two disjoint parts of the dataset. CrossSplit combines two main ingredients. (i) Cross-split label correction. The idea is that, since the model trained on one part of the data cannot memorize example-label pairs from the other part, the training labels presented to each network can be smoothly adjusted by using the predictions of its peer network; (ii) Cross-split semi-supervised training. A network trained on one part of the data also uses the unlabeled inputs of the other part. Extensive experiments on CIFAR-10, CIFAR-100, Tiny-ImageNet and mini-WebVision datasets demonstrate that our method can outperform the current state-of-the-art up to 90\% noise ratio.
 
 # Summary. An optional shortened abstract.
-summary: "TMLR, 2022"
+summary: "ICML, 2023"
 
 tags:
 - Source Themes
@@ -30,7 +30,7 @@ featured: false
 
 links:
 - name: arXiv
-  url: https://arxiv.org/abs/2209.09658
+  url: https://arxiv.org/abs/2212.01674
   icon_pack: fab
   
 url_pdf: ''
@@ -63,5 +63,4 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
 
