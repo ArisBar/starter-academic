@@ -24,6 +24,8 @@ interests:
   - Deep learning theory
  # - Statistical learning theory
   - Representation learning 
+  - Optimization
+  - Generalization, robustness
   #- Out of distribution generalization
   #- Applications in computer vision, NLP
 
